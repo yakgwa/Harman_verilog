@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$stop called at time : 65539 ns : File "D:/work/FPGA_HARMAN/20250730_adder/20250730_adder.srcs/sim_1/new/testbench_adder.v" Line 61

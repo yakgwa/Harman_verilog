@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/work/FPGA_HARMAN/20250730_adder/20250730_adder.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/work/FPGA_HARMAN/20250730_adder/20250730_adder.srcs/sim_1/new/testbench_adder.v,1753940634,verilog,,,,testbench_adder,,,,,,,,
+D:/work/FPGA_HARMAN/20250730_adder/20250730_adder.srcs/sources_1/new/adder.v,1753940409,verilog,,D:/work/FPGA_HARMAN/20250730_adder/20250730_adder.srcs/sim_1/new/testbench_adder.v,,full_adder;full_adder_4;full_adder_8;half_adder,,,,,,,,
